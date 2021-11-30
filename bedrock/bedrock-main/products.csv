@@ -1,0 +1,129 @@
+PlantID,Name,HU name,Flavor,Color,Type
+001-01,Amaranth,Amaránt,,Red,Red Aztec
+001-02,Amaranth,Amaránt,,,Passion Variegated
+001-03,Amaranth,Amaránt,,,Purple
+002-01,Anise,Ánizs,,,Hyssop
+003-01,Basil,Bazsalikom,,Gules,Red
+003-02,Basil,Bazsalikom,Lemon,Green,Lemon
+003-03,Basil,Bazsalikom,Cinnamon,Green,Thai/Cinnamon
+003-04,Basil,Bazsalikom,Sweet,Green,Passion DMR
+003-05,Basil,Bazsalikom,,Green,Sweet Genovese
+003-06,Basil,Bazsalikom,,,Mint
+003-07,Basil,Bazsalikom,Lemon,,Lemon
+003-08,Basil,Bazsalikom,,,Red
+003-09,Basil,Bazsalikom,,,Lime
+004-01,Beet leaf,Cékla levél,,,Bulls Blood Vancouver
+004-02,Beetroot,Cékla,,Red,
+004-03,Beet leaf,Cékla levél,,Red,Bulls Blood Olympia
+004-04,Beet,Cékla,,,
+005-01,Borage,Borágó,,Blue,
+005-02,Borage,Borágó,,,
+006-01,Burnet salad,Vérfű,,,Salad
+007-01,Celery,Zeller,,,
+008-01,Coriander,Koriander,,Green,Common
+008-02,Coriander,Koriander,,,
+009-01,Dill,Kapor,,Green,Dukat
+010-01,Fenugreek,Görögszéna,,Green,
+011-01,Kale,Fodros kel,,,CN KAL 1029 F1
+011-02,Kale,Fodros kel,,,Curled
+011-03,Kale,Fodros kel,,,Scarlet
+012-01,Lettuce,Saláta,,Red,Red Cos
+012-02,Lettuce,Saláta,,,Basilio RZ
+012-03,Lettuce,Saláta,,,Walha RZ
+012-04,Lettuce,Saláta,,Green,Ulmo RZ
+012-05,Lettuce,Saláta,,,Presteria RZ
+012-06,Lettuce,Saláta,,,Red Batavia CN RBAT 3229
+013-01,Mizuna,Mizuna,,Red,Red Knight F1
+013-02,Mizuna,Mizuna,,,CN Mizuna
+013-03,Mizuna,Mizuna,,,Red Baron Plus F1
+014-01,Mustard,Mustár,,Green,Giant
+014-02,Mustard,Mustár,,Red,Red Lion
+014-03,Mustard,Mustár,,Green,Pizzo
+014-04,Mustard,Mustár,,Red,Red Lace
+014-05,Mustard,Mustár,,Red,Red
+014-06,Mustard,Mustár,,Green,Wasabi
+014-07,Mustard,Mustár,,Red,Red Frills
+015-01,Nasturtium,Sarkantyúka,,,Alaska
+015-02,Nasturtium,Sarkantyúka,,Blue,Blue Pepe
+015-03,Nasturtium,Sarkantyúka,,,Tomb Thumb Mix
+015-04,Nasturtium,Sarkantyúka,,,Garden
+016-01,Pea,Borsó,,Green,Style
+016-02,Pea,Borsó,,Green,CN SPEA 4019
+016-03,Pea,Borsó,,,Veloborso
+016-04,Pea,Borsó,,,Rajnai torpe
+016-05,Pea,Borsó,,,Kelvedon csodaja
+016-06,Pea,Borsó,,,Zsuzsi
+016-07,Pea,Borsó,,,Trend
+016-08,Pea,Borsó,,Green,CN SPEA 4022
+016-09,Pea,Borsó,,,Zefier
+016-10,Pea,Borsó,,,Tendril
+017-01,Perilla,Perilla,,Green,Green
+017-02,Perilla,Perilla,,Green purple,Briton
+017-03,Perilla,Perilla,,Red,Red
+017-04,Perilla,Perilla,,,Beefsteak
+018-01,Radish,Retek,,Green pink,Sangria
+018-02,Radish,Retek,,Green,Daikon
+018-03,Radish,Retek,,Gules,Rioja
+018-04,Radish,Retek,,Green pink,Pink
+018-05,Radish,Retek,,,Sango
+018-06,Radish,Retek,,,Rioja Improved
+019-01,Sorrel,Vérsóska,,,Red veined
+019-02,Sorrel,Vérsóska,,,Red Lava
+019-03,Sorrel,Vérsóska,,,Red Veined
+020-01,Sunflower,Napraforgó,,Green,Black Seeded
+020-02,Sunflower,Napraforgó,,,
+021-01,Swiss chard,Mángold,,Yellow,Giallo
+022-01,Watercress,Vízitorma,,Green,
+023-01,Cress,Zsázsa,,Green,Garden
+023-02,Cress,Zsázsa,,,Organic Garden
+024-01,Parsley,Petrezselyem,,Green,
+024-02,Parsley,Petrezselyem,,Green,Italian Giant
+024-03,Parsley,Petrezselyem,,,
+024-04,Parsley,Petrezselyem,,,Bravour
+025-01,Orach,Kerti laboda,,Red,Garden
+026-01,Cabbage,Káposzta,,,Amarant
+026-02,Cabbage,Káposzta,,,Red
+027-01,Levander,Levendula,,,
+028-01,Balm,Citromfű,Lemon,Green,
+028-02,Balm,Citromfű,,,Lemon
+029-01,Chives,Metélőhagyma,,,Broad leaf
+030-01,Rocket,Rukkola,,Green,Uber
+030-02,Rocket,Rukkola,,,Mugello
+030-03,Rocket,Rukkola,,,Salad
+031-01,Tatsoi,Tatsoi,,Green,
+032-01,Thyme,Kakukkfű,,Green purple,English Winter
+033-01,Sage,Orvosi zsálya,,Green,English
+034-01,Quinoa,Kinoa,,Green,
+035-01,Purslane,Kövér porcsin,,Green pink,
+035-02,Purslane,Téli porcsin,,,Winter
+036-01,Pak Choi,Borsdáskel,,Green white,Canton White
+036-02,Pak Choi,Borsdáskel,,,Purple Rain F1
+037-01,Nettle,Csalán,,Green,Common
+038-01,Mitsuba,Japán petrezselyem,,Green,Mashimori
+039-01,Tarragon,Tárkony,,Green purple,Mexican
+040-01,Marjoram,Majoránna,Sweet,Green,
+041-01,Lovage,Lestyán,,Green,
+041-02,Lovage,Lestyán,,,
+042-01,Rapini,Rapini brokkoli,,Gules,Cima Di Rapa
+043-01,Crown daisy,Koronás margitvirág,,Green,Garland Green
+044-01,Buckwheat,Hajdina,,Green,
+045-01,Chervil,Turbolya,,Green,Plain
+045-02,Chervil,Turbolya,,,Curled
+046-01,Corn,Kukorica,Sweet,Green,
+047-01,Chickpea,Csicseriborsó,,Green,
+048-01,Komatsuna,Komatsuna,,Green,Cartlon F1
+048-02,Komatsuna,Komatsuna,,,Comred F1
+049-01,Violet,Ibolya,Sweet,White purple,Sweet Wildflower
+050-01,Egyptian mint,Egyiptomi menta,,Green,Round Leaved
+051-01,Korean mint,Koreai menta,,,Korean
+052-01,Hibiscus,Hibiszkusz,,,
+053-01,Marigold,Bársonyvirág,,,
+054-01,Paracress,Iskolavirág,,,
+055-01,Stevia,Sztívia,,,Sweetleaf
+056-01,Tricolor daisy,Húsos aranyvirág,,,Three Color
+057-01,Wheat grass,Búza,,,Organic
+058-01,Fennel,Édeskömény,,Green,di Firenze
+059-01,Monarda,Méhbalzsam,,,(Bergamot) Lemon Mint
+060-01,Goosefoots,Libatop,,,Tree Spinach
+061-01,Ice plant,Jeges kristályvirág,,,
+062-01,Chicory,Cikória,,,Italiko Rosso

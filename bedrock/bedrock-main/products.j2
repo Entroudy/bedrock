@@ -1,0 +1,16 @@
+
+{% for row in rows %}
+
+INSERT INTO Products( `PlantId`, `BarCode`, `Name_HU`, `Name_EN`, `Type`, `Color`, `Flavor`, `Stock`) 
+VALUES ('{{row['PlantID']}}','','{{row['HU name']}}','{{row['Name']}}','{{row['Type']}}',
+'{{row['Color']}}','{{row['Flavor']}}',0);
+
+{% endfor %}
+
+
+
+
+
+
+
+

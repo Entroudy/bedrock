@@ -1,0 +1,14 @@
+
+{% for row in rows %}
+
+INSERT INTO Products( 'Name', 'CompanyName', 'DeliveryTime', 'Comment', 'AccountManager', 'Priority', 'TaxNumber', 
+'ContactPersonEmail', 'ContactPersonName', 'ContactPersonPhone', 'PaymentMethod', 'DeliveryFee') 
+VALUES ('{{row['Name']}}','{{row['CompanyName']}}','{{row['DeliveryTime']}}','{{row['Comment']}}',
+'{{row['AcoountManager']}}','{{row['Priority']}}','{{row['TaxNumber']}}','{{row['ContactPersonEmail']}}',
+'{{row['ContactPersonName']}}','{{row['ContactPersonPhone']}}','{{row['PaymentMethod']}}','{{row['DeliveryFee']}}');
+
+{% endfor %}
+
+
+
+
