@@ -1,0 +1,129 @@
+PlantID,Name,HU name,Mag,Flavor,Color,Type
+001-01,Amaranth,Amar�nt,5999118300407,,Red,Red Aztec
+001-02,Amaranth,Amar�nt,5999118300414,,,Passion Variegated
+001-03,Amaranth,Amar�nt,5999118300421,,,Purple
+002-01,Anise,�nizs,5999118300438,,,Hyssop
+003-01,Basil,Bazsalikom,5999118300162,,Gules,Red
+003-02,Basil,Bazsalikom,5999118300179,Lemon,Green,Lemon
+003-03,Basil,Bazsalikom,5999118300186,Cinnamon,Green,Thai/Cinnamon
+003-04,Basil,Bazsalikom,5999118300193,Sweet,Green,Passion DMR
+003-05,Basil,Bazsalikom,5999118300209,,Green,Sweet Genovese
+003-06,Basil,Bazsalikom,5999118300445,,,Mint
+003-07,Basil,Bazsalikom,5999118300452,Lemon,,Lemon
+003-08,Basil,Bazsalikom,5999118300469,,,Red
+003-09,Basil,Bazsalikom,5999118301435,,,Lime
+004-01,Beet leaf,C�kla lev�l,,,,Bulls Blood Vancouver
+004-02,Beetroot,C�kla,,,Red,
+004-03,Beet leaf,C�kla lev�l,,,Red,Bulls Blood Olympia
+004-04,Beet,C�kla,,,,
+005-01,Borage,Bor�g�,5999118300216,,Blue,
+005-02,Borage,Bor�g�,5999118300476,,,
+006-01,Burnet salad,V�rf�,5999118300223,,,Salad
+007-01,Celery,Zeller,5999118300483,,,
+008-01,Coriander,Koriander,5999118300230,,Green,Common
+008-02,Coriander,Koriander,5999118300490,,,
+009-01,Dill,Kapor,5999118300247,,Green,Dukat
+010-01,Fenugreek,G�r�gsz�na,5999118300506,,Green,
+011-01,Kale,Fodros kel,5999118301244,,,CN KAL 1029 F1
+011-02,Kale,Fodros kel,5999118301251,,,Curled
+011-03,Kale,Fodros kel,5999118301725,,,Scarlet
+012-01,Lettuce,Sal�ta,5999118301657,,Red,Red Cos
+012-02,Lettuce,Sal�ta,,,,Basilio RZ
+012-03,Lettuce,Sal�ta,,,,Walha RZ
+012-04,Lettuce,Sal�ta,,,Green,Ulmo RZ
+012-05,Lettuce,Sal�ta,,,,Presteria RZ
+012-06,Lettuce,Sal�ta,5999118301466,,,Red Batavia CN RBAT 3229
+013-01,Mizuna,Mizuna,5999118300513,,Red,Red Knight F1
+013-02,Mizuna,Mizuna,5999118300520,,,CN Mizuna
+013-03,Mizuna,Mizuna,5999118301428,,,Red Baron Plus F1
+014-01,Mustard,Must�r,5999118300254,,Green,Giant
+014-02,Mustard,Must�r,5999118300261,,Red,Red Lion
+014-03,Mustard,Must�r,5999118300278,,Green,Pizzo
+014-04,Mustard,Must�r,5999118300537,,Red,Red Lace
+014-05,Mustard,Must�r,5999118300544,,Red,Red
+014-06,Mustard,Must�r,5999118300551,,Green,Wasabi
+014-07,Mustard,Must�r,5999118301411,,Red,Red Frills
+015-01,Nasturtium,Sarkanty�ka,5999118300568,,,Alaska
+015-02,Nasturtium,Sarkanty�ka,5999118300575,,Blue,Blue Pepe
+015-03,Nasturtium,Sarkanty�ka,5999118300582,,,Tomb Thumb Mix
+015-04,Nasturtium,Sarkanty�ka,5999118300599,,,Garden
+016-01,Pea,Bors�,5999118300285,,Green,Style
+016-02,Pea,Bors�,5999118300292,,Green,CN SPEA 4019
+016-03,Pea,Bors�,5999118300605,,,Veloborso
+016-04,Pea,Bors�,5999118300612,,,Rajnai torpe
+016-05,Pea,Bors�,5999118300629,,,Kelvedon csodaja
+016-06,Pea,Bors�,5999118300636,,,Zsuzsi
+016-07,Pea,Bors�,5999118300643,,,Trend
+016-08,Pea,Bors�,5999118300650,,Green,CN SPEA 4022
+016-09,Pea,Bors�,5999118300667,,,Zefier
+016-10,Pea,Bors�,5999118300674,,,Tendril
+017-01,Perilla,Perilla,5999118300681,,Green,Green
+017-02,Perilla,Perilla,5999118300698,,Green purple,Briton
+017-03,Perilla,Perilla,5999118300704,,Red,Red
+017-04,Perilla,Perilla,5999118301442,,,Beefsteak
+018-01,Radish,Retek,5999118300308,,Green pink,Sangria
+018-02,Radish,Retek,5999118300315,,Green,Daikon
+018-03,Radish,Retek,5999118300322,,Gules,Rioja
+018-04,Radish,Retek,5999118300711,,Green pink,Pink
+018-05,Radish,Retek,5999118300728,,,Sango
+018-06,Radish,Retek,5999118301732,,,Rioja Improved
+019-01,Sorrel,V�rs�ska,5999118300735,,,Red veined
+019-02,Sorrel,V�rs�ska,5999118300742,,,Red Lava
+019-03,Sorrel,V�rs�ska,5999118300759,,,Red Veined
+020-01,Sunflower,Napraforg�,5999118300766,,Green,Black Seeded
+020-02,Sunflower,Napraforg�,5999118300773,,,
+021-01,Swiss chard,M�ngold,,,Yellow,Giallo
+022-01,Watercress,V�zitorma,5999118300780,,Green,
+023-01,Cress,Zs�zsa,5999118300339,,Green,Garden
+023-02,Cress,Zs�zsa,5999118300797,,,Organic Garden
+024-01,Parsley,Petrezselyem,5999118300803,,Green,
+024-02,Parsley,Petrezselyem,5999118300810,,Green,Italian Giant
+024-03,Parsley,Petrezselyem,5999118300827,,,
+024-04,Parsley,Petrezselyem,5999118301541,,,Bravour
+025-01,Orach,Kerti laboda,,,Red,Garden
+026-01,Cabbage,K�poszta,5999118301602,,,Amarant
+026-02,Cabbage,K�poszta,5999118301596,,,Red
+027-01,Levander,Levendula,,,,
+028-01,Balm,Citromf�,5999118301565,Lemon,Green,
+028-02,Balm,Citromf�,5999118301558,,,Lemon
+029-01,Chives,Met�l�hagyma,5999118301619,,,Broad leaf
+030-01,Rocket,Rukkola,5999118300834,,Green,Uber
+030-02,Rocket,Rukkola,5999118300841,,,Mugello
+030-03,Rocket,Rukkola,5999118300858,,,Salad
+031-01,Tatsoi,Tatsoi,5999118301329,,Green,
+032-01,Thyme,Kakukkf�,,,Green purple,English Winter
+033-01,Sage,Orvosi zs�lya,5999118301626,,Green,English
+034-01,Quinoa,Kinoa,,,Green,
+035-01,Purslane ,K�v�r porcsin,,,Green pink,
+035-02,Purslane ,T�li porcsin,5999118301473,,,Winter
+036-01,Pak Choi,Borsd�skel,5999118301572,,Green white,Canton White
+036-02,Pak Choi,Borsd�skel,5999118301442,,,Purple Rain F1
+037-01,Nettle,Csal�n,,,Green,Common
+038-01,Mitsuba,Jap�n petrezselyem,5999118301398,,Green,Mashimori
+039-01,Tarragon,T�rkony,,,Green purple,Mexican
+040-01,Marjoram,Major�nna,,Sweet,Green,
+041-01,Lovage,Lesty�n,5999118300865,,Green,
+041-02,Lovage,Lesty�n,5999118300872,,,
+042-01,Rapini,Rapini brokkoli,5999118300889,,Gules,Cima Di Rapa
+043-01,Crown daisy,Koron�s margitvir�g,5999118301527,,Green,Garland Green
+044-01,Buckwheat,Hajdina,5999118300896,,Green,
+045-01,Chervil,Turbolya,5999118300902,,Green,Plain
+045-02,Chervil,Turbolya,5999118301503,,,Curled
+046-01,Corn,Kukorica,5999118300919,Sweet,Green,
+047-01,Chickpea,Csicseribors�,,,Green,
+048-01,Komatsuna,Komatsuna,5999118301589,,Green,Cartlon F1
+048-02,Komatsuna,Komatsuna,5999118301510,,,Comred F1
+049-01,Violet,Ibolya,,Sweet,White purple,Sweet Wildflower
+050-01,Egyptian mint,Egyiptomi menta,5999118301640,,Green,Round Leaved
+051-01,Korean mint,Koreai menta,5999118301633,,,Korean
+052-01,Hibiscus,Hibiszkusz,,,,
+053-01,Marigold,B�rsonyvir�g,,,,
+054-01,Paracress,Iskolavir�g,,,,
+055-01,Stevia,Szt�via,,,,Sweetleaf
+056-01,Tricolor daisy,H�sos aranyvir�g,,,,Three Color
+057-01,Wheat grass,B�za,5999118301305,,,Organic
+058-01,Fennel,�desk�m�ny,5999118301664,,Green,di Firenze
+059-01,Monarda,M�hbalzsam,5999118301480,,,(Bergamot) Lemon Mint
+060-01,Goosefoots,Libatop,5999118301534,,,Tree Spinach
+061-01,Ice plant,Jeges krist�lyvir�g,5999118301459,,,
+062-01,Chicory,Cik�ria,5999118301497,,,Italiko Rosso
